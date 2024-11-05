@@ -1,30 +1,24 @@
-## 👋 Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+<h1 align="center">Hi 👋, I'm Irfan Karim</h1>
+<h3 align="center">
+ Mobile Application Developer | Cybersecurity Enthusiast | Problem Solver
 
-</br>
-<strong>Hi, I am Muizz !</strong>
-</br>
-AI Developer and Machine Learning Engineer, with a passion for turning complex data into actionable intelligence. I specialize in crafting intelligent, data-driven solutions that leverage the latest advancements in machine learning and AI to address challenging real-world problems. My work focuses on analyzing, transforming, and modeling data to develop solutions that are not only accurate but also highly scalable and efficient. Whether through classification, regression, clustering, or recommendation models, I strive to deliver results that meet specific business needs and exceed expectations.
+As a versatile developer with a knack for creating innovative mobile applications using Flutter, I thrive on the challenge of turning ideas into interactive, user-friendly apps. With a deep interest in cybersecurity and a strong foundation in data structures and algorithms (DSA), I ensure that my work not only meets functionality standards but also prioritizes security and efficiency.
 
-<img src="https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+My problem-solving skills are a cornerstone of my approach to development, enabling me to tackle complex challenges and deliver solutions that are both effective and scalable. Outside the coding realm, I'm a music lover, adventurer, and passionate chess player, always seeking new melodies, thrilling escapades, and strategic battles on the chessboard.
 
-<div align="center">
+Whether it's developing the next big app, diving into the intricacies of cybersecurity, exploring the great outdoors, or enjoying a game of chess, I am dedicated to pushing the boundaries of what's possible in the tech world.</h3>
 
-![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge)
-![PyTorch](https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge)
-![Scikit-learn](https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge)
-![Pandas](https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge)
-![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge)
-![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge)
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/irfankarimhaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfankarimhaji" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/irfankarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irfankarim" height="30" width="40" /></a>
+</p>
 
-</br>
-<h3 align="center"> -Languages-Frameworks-Tools- </h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,c" />
-</div>
-<div align="center", justify-content="align-center">
-     <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,mysql,pytorch,anaconda,opencv,linux" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfankarim101&show_icons=true&locale=en&layout=compact" alt="irfankarim101" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfankarim101&" alt="irfankarim101" /></p>
