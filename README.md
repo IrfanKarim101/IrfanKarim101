@@ -8,6 +8,9 @@ My problem-solving skills are a cornerstone of my approach to development, enabl
 
 Whether it's developing the next big app, diving into the intricacies of cybersecurity, exploring the great outdoors, or enjoying a game of chess, I am dedicated to pushing the boundaries of what's possible in the tech world.</h3>
 
+
+<img src="https://raw.githubusercontent.com/IrfanKarim101/IrfanKarim101/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
