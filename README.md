@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Irfan Karim</h1>
-<h3 align="center">
+<h4 align="center">
  Mobile Application Developer | Cybersecurity Enthusiast | Problem Solver
 
 As a versatile developer with a knack for creating innovative mobile applications using Flutter, I thrive on the challenge of turning ideas into interactive, user-friendly apps. With a deep interest in cybersecurity and a strong foundation in data structures and algorithms (DSA), I ensure that my work not only meets functionality standards but also prioritizes security and efficiency.
 
 My problem-solving skills are a cornerstone of my approach to development, enabling me to tackle complex challenges and deliver solutions that are both effective and scalable. Outside the coding realm, I'm a music lover, adventurer, and passionate chess player, always seeking new melodies, thrilling escapades, and strategic battles on the chessboard.
 
-Whether it's developing the next big app, diving into the intricacies of cybersecurity, exploring the great outdoors, or enjoying a game of chess, I am dedicated to pushing the boundaries of what's possible in the tech world.</h3>
+Whether it's developing the next big app, diving into the intricacies of cybersecurity, exploring the great outdoors, or enjoying a game of chess, I am dedicated to pushing the boundaries of what's possible in the tech world.</h4>
 
 
 <img src="https://raw.githubusercontent.com/IrfanKarim101/IrfanKarim101/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
