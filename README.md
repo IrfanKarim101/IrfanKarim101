@@ -13,6 +13,8 @@ Whether it's developing the next big app, diving into the intricacies of cyberse
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfankarim101" alt="irfankarim101" /></a> </p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/irfan_karim_haji/profilecard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/irfan_karim_haji/profilecard/" height="30" width="40" /></a>
