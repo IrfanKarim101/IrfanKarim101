@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Irfan Karim </h1>
 <h4 align="center">
- Mobile Application Developer | Cybersecurity Enthusiast | Problem Solver
+Flutter Developer • Mobile Security Specialist • Ethical Hacker
 
-As a versatile developer with a knack for creating innovative mobile applications using Flutter, I thrive on the challenge of turning ideas into interactive, user-friendly apps. With a deep interest in cybersecurity and a strong foundation in data structures and algorithms (DSA), I ensure that my work not only meets functionality standards but also prioritizes security and efficiency.
+I build sleek, high‑performance mobile apps in Flutter, leveraging its expressive UI toolkit and hot‑reload workflow to deliver exceptional user experiences. My work spans custom widgets, advanced state management (Provider, Riverpod), RESTful API integration and unit testing—all with an eye toward maintainability and scalability.  
 
-My problem-solving skills are a cornerstone of my approach to development, enabling me to tackle complex challenges and deliver solutions that are both effective and scalable. Outside the coding realm, I'm a music lover, adventurer, and passionate chess player, always seeking new melodies, thrilling escapades, and strategic battles on the chessboard.
+Driven by a passion for cybersecurity, I integrate penetration‑testing tools directly into my apps—most recently developing an Nmap scanner in Flutter to automate network discovery and vulnerability assessment on the go. Whether it’s crafting secure authentication flows or analyzing packet captures, I enjoy bridging the worlds of mobile development and ethical hacking.
 
-Whether it's developing the next big app, diving into the intricacies of cybersecurity, exploring the great outdoors, or enjoying a game of chess, I am dedicated to pushing the boundaries of what's possible in the tech world.</h4>
+
+- 🔭 Currently fine‑tuning my Flutter Nmap scanning app for reliable host enumeration and service fingerprinting  
+- 🌱 Diving deeper into Django to architect rock‑solid backends with OAuth2, JWT and rate‑limiting  
+- 🎯 Participating in CTF challenges to sharpen my pentesting skills and reverse‑engineering techniques  
+- 🌄 When I unplug, you’ll find me hiking the trails of Hunza Valley or listening to traditional folk melodies  
+</h4>
 
 
 <img src="https://raw.githubusercontent.com/IrfanKarim101/IrfanKarim101/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
