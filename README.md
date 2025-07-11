@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan Karim </h1>
 <h4 align="center">
-Flutter Developer • Mobile Security Specialist • Ethical Hacker
+<strong>Flutter Developer • Mobile Security Specialist • Ethical Hacker</strong>
 
 I build sleek, high‑performance mobile apps in Flutter, leveraging its expressive UI toolkit and hot‑reload workflow to deliver exceptional user experiences. My work spans custom widgets, advanced state management (Provider, Riverpod), RESTful API integration and unit testing—all with an eye toward maintainability and scalability.  
 
