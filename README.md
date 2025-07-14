@@ -2,6 +2,7 @@
 <h4 align="center">
 <strong>Flutter Developer • Mobile Security Specialist • Ethical Hacker</strong>
 
+
 I build sleek, high‑performance mobile apps in Flutter, leveraging its expressive UI toolkit and hot‑reload workflow to deliver exceptional user experiences. My work spans custom widgets, advanced state management (Provider, Riverpod), RESTful API integration and unit testing—all with an eye toward maintainability and scalability.  
 
 Driven by a passion for cybersecurity, I integrate penetration‑testing tools directly into my apps—most recently developing an Nmap scanner in Flutter to automate network discovery and vulnerability assessment on the go. Whether it’s crafting secure authentication flows or analyzing packet captures, I enjoy bridging the worlds of mobile development and ethical hacking.
