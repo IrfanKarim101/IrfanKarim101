@@ -1,5 +1,7 @@
 <!-- Glitch/Typing animated header -->
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%5BSYS%3A+BOOT%5D+irfan-karimi;+++Mobile+Architect+;+Security+Researcher;Hacking+the+Future;+One+Commit+at+a+Time;%3E+ACCESS+GRANTED_" alt="Typing SVG" />
+</p>
 <br/>
 
 <h1 align="center">Hi 👋, I'm Irfan Karim </h1>
